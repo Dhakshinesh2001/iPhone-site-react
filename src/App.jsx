@@ -6,11 +6,12 @@ function App() {
   // const [count, setCount] = useState(0)
 
   return (
-    <main className="bg-black">
+    <>
       <Navbar />
       <Hero />
       <Highlights />
-      </main>
+      Hi
+      </>
   )
 }
 
